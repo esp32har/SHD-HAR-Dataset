@@ -3,5 +3,5 @@
 ```
 The structure of this dataset are shown in the figure below: 
 ```
-![alt text](<Structure of Data-1.png>)
+![alt text](<Structure of Data.png>)
 
